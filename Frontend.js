@@ -1,5 +1,6 @@
 console.log("hello wold")
 console.log("hii")
 console.log("added lines by students branch")
-console.log("changes are made by student-frontend branch"))
+console.log("changes are made by student-frontend branch")
 console.log("some more changes by students")
+console.log("hii...")
